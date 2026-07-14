@@ -9,10 +9,9 @@ from PIL import Image
 from ultralytics import YOLO
 
 
-
 # KONFIGURASI HALAMAN
 st.set_page_config(
-    page_title="Deteksi Kerusakan Jalan",
+    page_title="Deteksi Lubang Jalan",
     page_icon="🛣️",
     layout="wide"
 )
